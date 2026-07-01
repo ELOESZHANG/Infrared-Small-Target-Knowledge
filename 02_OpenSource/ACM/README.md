@@ -3,11 +3,9 @@
 ## Source
 https://github.com/YimianDai/open-acm
 
-## Task
-Infrared small target detection
 
 ## Type
-Code / Model
+Code / Model /Single  
 
 ## Paper
 Asymmetric Contextual Modulation for Infrared Small Target Detection
