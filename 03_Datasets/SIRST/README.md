@@ -18,4 +18,4 @@ Dataset
 - 适合做分割、检测 baseline
 
 ## Notes
-待下载、待整理
+与ACM文章关联
