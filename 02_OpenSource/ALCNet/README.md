@@ -14,6 +14,7 @@ Attentional Local Contrast Networks for Infrared Small Target Detection
 
 ## Why it is useful
 -不是在原图计算特征值的差值，而是计算特征图的差值，cnn可以学习哪些亮点是目标，哪些亮点是干扰，并把空洞值从单个变成多个
+-使用平移相减而不是卷积的方法来提升flops
 
 ## Notes
 2021 TGRS
