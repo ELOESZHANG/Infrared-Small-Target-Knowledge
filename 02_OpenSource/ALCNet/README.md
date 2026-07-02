@@ -7,7 +7,7 @@ https://github.com/YimianDai/open-alcnet
 Infrared small target detection
 
 ## Type
-Code / Model
+Code / Model /Single
 
 ## Paper
 Attentional Local Contrast Networks for Infrared Small Target Detection
