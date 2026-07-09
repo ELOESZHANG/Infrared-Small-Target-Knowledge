@@ -1,4 +1,4 @@
-# ALCNet
+# ACM
 
 ## Source
 https://github.com/YimianDai/open-acm
